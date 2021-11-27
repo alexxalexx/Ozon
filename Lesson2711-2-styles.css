@@ -1,0 +1,109 @@
+.header
+{
+	width: 1900px;
+	border-radius: 10px;
+}
+.buttons_searchbar
+{
+	display: inline-flex;
+}
+.button_a
+{
+	width: 200px;
+	margin-top: 5px;
+}
+.catalogue
+{
+	width: 198px;
+	height: 60px;
+	margin-top: 11px;
+	margin-left: 30px;
+	border: 1px solid #4242FF;
+	border-radius: 7px;
+	background-color: #4242FF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.catalogue_p
+{
+	color: white;
+	font-family: 'Rubik', sans-serif;
+	font-size: 23px;
+}
+.searchbar
+{
+	width: 700px;
+	height: 52px;
+	border: 5px solid #4242FF;
+	border-radius: 7px;
+	margin-top: 11px;
+	margin-left: 60px;
+	display: flex;
+	align-items: center;
+	padding-left: 15px;
+}
+.searchbar_p
+{
+	color: grey;
+	font-family: 'Rubik', sans-serif;
+	font-size: 15px;
+}
+.searchbutton
+{
+	width: 100px;
+	height: 60px;
+	margin-top: 11px;
+	margin-left: 5px;
+	border: 1px solid #4242FF;
+	border-radius: 7px;
+	background-color: #4242FF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.signin
+{
+	margin-top: 21px;
+	margin-left: 100px;
+	text-align: center;
+
+}
+.signin_p
+{
+	margin-top: auto;
+	font-family: 'Rubik', sans-serif;
+}
+.orders
+{
+	margin-top: 21px;
+	margin-left: 50px;
+	text-align: center;
+}
+.orders_p
+{
+	margin-top: auto;
+	font-family: 'Rubik', sans-serif;
+}
+.favourites
+{
+	margin-top: 21px;
+	margin-left: 40px;
+	text-align: center;
+}
+.favourites_p
+{
+	margin-top: auto;
+	font-family: 'Rubik', sans-serif;
+}
+.bag
+{
+	margin-top: 21px;
+	margin-left: 40px;
+	text-align: center;
+}
+.bag_p
+{
+	margin-top: auto;
+	font-family: 'Rubik', sans-serif;
+}
